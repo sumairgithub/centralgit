@@ -1,1 +1,2 @@
 this is use to check git clone
+this is use to check pull command
